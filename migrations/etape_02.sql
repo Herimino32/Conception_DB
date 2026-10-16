@@ -1,10 +1,3 @@
--- plats
-Create table plats(
-    id SERIAL primary key,
-    nom varchar(100) NOT NULL,
-    prix INTEGER NOT NULL
-);
-
 -- new table cetegorie
 Create table categorie(
     id SERIAL primary key,
